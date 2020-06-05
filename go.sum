@@ -1,0 +1,10 @@
+github.com/gen2brain/go-fitz v0.0.0-20190716092309-62357ab3d4a9 h1:/D6PM5i7UKhVrfHfgGsaSP+jR1l6fYMZreriUhUpaHo=
+github.com/gen2brain/go-fitz v0.0.0-20190716092309-62357ab3d4a9/go.mod h1:AEIUBmAFrng2KkeZuPIOlg9jiReLYHo0lVdwhDkz5rk=
+github.com/golang/crypto v0.0.0-20200602180216-279210d13fed h1:Sn1qWQmrzOhSYAjy8AujmkO1zE/j4ndX0OMPilXG6Kw=
+github.com/golang/image v0.0.0-20190417020941-4e30a6eb7d9a h1:kT5T6p5JQP/BJn0dc9OJdKJOoB71pNJGOx+rSQudqiU=
+github.com/golang/image v0.0.0-20200430140353-33d19683fad8 h1:V+UfJumVPnCPE8ZQnUYXmoCwupQvXP13jhnENzQq5hE=
+golang.org/x/crypto v0.0.0-20200602180216-279210d13fed h1:g4KENRiCMEx58Q7/ecwfT0N2o8z35Fnbsjig/Alf2T4=
+golang.org/x/image v0.0.0-20200430140353-33d19683fad8 h1:6WW6V3x1P/jokJBpRQYUJnMHRP6isStQwCozxnU7XQw=
+golang.org/x/image v0.0.0-20200430140353-33d19683fad8/go.mod h1:FeLwcggjj3mMvU+oOTbSwawSJRM1uh48EjtB4UJZlP0=
+golang.org/x/net v0.0.0-20200602114024-627f9648deb9 h1:pNX+40auqi2JqRfOP1akLGtYcn15TUbkhwuCO3foqqM=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=

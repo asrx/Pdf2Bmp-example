@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Config>
+    <!-- Pdf 源路径-->
+    <pdf>./files/pdf/</pdf>
+    <!-- Bmp 存储路径-->
+    <bmp>./files/bmp/</bmp>
+    <!-- 是否自动退出程序-->
+    <enable>true</enable>
+</Config>
